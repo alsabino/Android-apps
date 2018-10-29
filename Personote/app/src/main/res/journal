@@ -1,0 +1,10 @@
+--
+-- File generated with SQLiteStudio v3.1.1 on qui mar 29 21:07:23 2018
+--
+-- Text encoding used: System
+--
+PRAGMA foreign_keys = off;
+BEGIN TRANSACTION;
+
+COMMIT TRANSACTION;
+PRAGMA foreign_keys = on;
